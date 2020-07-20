@@ -1,1 +1,6 @@
-Github profile with a Readme :)
+#About me
+=========
+
+⋅⋅* Studiying mathematics in Germany (Bonn).
+⋅⋅* Primarily python for now
+⋅⋅* WIP
