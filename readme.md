@@ -8,5 +8,5 @@
 * Twitter DMs are open.
 * WIP.
 ```python
-reduce(lambda a,b:a*b,[2,2,5]) #Years old
+reduce(lambda a,b:a*b,[2,2,5]) #years old
 ```
