@@ -1,6 +1,6 @@
 #About me
 =========
 
-⋅⋅* Studiying mathematics in Germany (Bonn).
-⋅⋅* Primarily python for now
-⋅⋅* WIP
+* Studiying mathematics in Germany (Bonn).
+* Primarily python for now
+* WIP
