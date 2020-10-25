@@ -7,4 +7,4 @@
 * Currently working on [MSSH.Chrono](https://github.com/MathManuelHinz/chrono "Chrono").
 * I will gladly share notes (once they are ready).
 * Twitter DMs are open.
-* WIP.
+* My [tech stack](https://mssh.dev/2020/10/22/tools.html)
