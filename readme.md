@@ -8,3 +8,7 @@
 * Check out my notes [here](https://github.com/MathManuelHinz/Knowledge "My notes").
 * My [tech stack](https://mssh.dev/2020/10/22/tools.html).
 * Twitter DMs are open.
+
+# latest Blog post
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
