@@ -9,6 +9,6 @@
 * My [tech stack](https://mssh.dev/2020/10/22/tools.html).
 * Twitter DMs are open.
 
-# latest Blog post
+# Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
