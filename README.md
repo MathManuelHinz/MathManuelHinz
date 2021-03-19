@@ -15,5 +15,4 @@
 - [Realising MSSH.chrono](https://mssh.dev/2020/10/25/chrono-why.html)
 - [My current tech stack](https://mssh.dev/2020/10/22/tools.html)
 - [Random thoughts[1]: The relation between proper folds and monoids](https://mssh.dev/2020/08/27/random-thoughts.html)
-- [Distance is relative: Introduction](https://mssh.dev/2020/08/24/distance-is-relative.html)
 <!-- BLOG-POST-LIST:END -->
